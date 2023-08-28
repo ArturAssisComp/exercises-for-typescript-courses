@@ -47,23 +47,23 @@
   </ol>
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Description 
 
 This repository contains exercises and tutorials for typescript. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Requirements
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Learning 
 
 ## Overview
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 
 ## Types Cheat Sheet
@@ -169,12 +169,12 @@ This repository contains exercises and tutorials for typescript.
   let strLength: number = (<string>someValue).length;
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 ---
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 ## How to use lite-server to make the development easier
 
@@ -200,7 +200,7 @@ npm install --save-dev lite-server
 }
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 
 
