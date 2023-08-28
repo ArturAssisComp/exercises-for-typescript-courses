@@ -2,6 +2,8 @@
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
+<img src="https://github.com/Matheus1714/exercises-for-typescript-courses/assets/39354089/9cb97e42-3507-4603-9958-d478ce609aa8">
+
 
 <a id="readme-top"></a>
 
@@ -14,9 +16,9 @@
     <a href="#learning"><strong>Explore the learning section</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Report Bug</a>
+    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Report Bug 🐛</a>
     <br/>
-    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Request Feature</a>
+    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Request Feature 🪃</a>
   </p>
 </div>
 
@@ -47,23 +49,25 @@
   </ol>
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Description 
 
-This repository contains exercises and tutorials for typescript. 
+This repository hosts a diverse range of exercises and tutorials dedicated to TypeScript, offering comprehensive learning resources for both beginners and experienced developers.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Requirements
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* Typescript
+
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Learning 
 
 ## Overview
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 
 ## Types Cheat Sheet
@@ -169,12 +173,12 @@ This repository contains exercises and tutorials for typescript.
   let strLength: number = (<string>someValue).length;
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 ---
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 ## How to use lite-server to make the development easier
 
@@ -200,7 +204,7 @@ npm install --save-dev lite-server
 }
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 
 
