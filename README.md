@@ -53,11 +53,13 @@
 
 # Description 
 
-This repository contains exercises and tutorials for typescript. 
+This repository hosts a diverse range of exercises and tutorials dedicated to TypeScript, offering comprehensive learning resources for both beginners and experienced developers.
 
 <p align="right"><a href="#readme-top">🔝 Return</a></p>
 
 # Requirements
+
+* Typescript
 
 <p align="right"><a href="#readme-top">🔝 Return</a></p>
 
