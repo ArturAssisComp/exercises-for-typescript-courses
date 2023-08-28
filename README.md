@@ -2,6 +2,8 @@
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
+<img src="https://github.com/Matheus1714/exercises-for-typescript-courses/assets/39354089/9cb97e42-3507-4603-9958-d478ce609aa8">
+
 
 <a id="readme-top"></a>
 
@@ -14,9 +16,9 @@
     <a href="#learning"><strong>Explore the learning section</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Report Bug</a>
+    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Report Bug 🐛</a>
     <br/>
-    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Request Feature</a>
+    <a href="https://github.com/ArturAssisComp/exercises-for-typescript-courses/issues">Request Feature 🪃</a>
   </p>
 </div>
 
